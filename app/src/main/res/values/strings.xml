@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleAsyncTask</string>
+    <string name="ready_to_start">I am ready to start work!</string>
+    <string name="start_task">Start Task</string>
+    <string name="napping">Taking a little nap for %1$s</string>
+    <string name="about_text">Start a background task. While it is running click the Add button repeatedly.\nAll to demonstrate how a task can run in the background while another task runs in the foreground</string>
+    <string name="add">Add</string>
+</resources>
